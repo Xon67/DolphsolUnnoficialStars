@@ -217,7 +217,7 @@
             "rarity": 850000
         },
         "7313407": {
-            "name": "Arcane",
+            "name": "Arcane or (Sailor)",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/8/86/Arcane_Gif_25Fps.gif",
             "rarity": 1000000,
             "cornerColor": 3355443
@@ -317,13 +317,6 @@
             "biome": {"name": "Starfall", "factor":10},
             "cornerColor": 3354929
         },
-        "7642879": {
-            "name": "Sailor",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e2/SailorCollectionEra7.gif",
-            "rarity": 12000000,
-            "biome": {"name": "Rainy", "factor":4},
-            "cornerColor": 3223857
-        },
         "8759551": {
             "name": "Arcane : Legacy OR Arcane : Dark (1/2)",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/3/34/ArcaneLegacyAura.gif",
@@ -411,4 +404,3 @@
         }
     }
 }]
-
