@@ -401,10 +401,11 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e4/Sailor_Flying_Dutchman_Collection_E8.gif",
             "rarity": 80000000,
             "biome": {"name": "Rainy", "factor":4}
-        }
+        },
         "10207411": {
             "name": "Sovereign",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/0/05/Sovereign_Collection_E8.gif",
             "rarity": 750000000
+        }
     }
 }]
