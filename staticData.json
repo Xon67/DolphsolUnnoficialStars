@@ -1,9 +1,9 @@
 [{
-    "announcement":"v1.5.0.8 By Xon67, Please note that this is an unofficial release, and bugs may occur.",
+    "announcement":"v1.5.0 By Xon67, Please note that this is an unofficial release, and bugs may occur.",
     "updateInfo": {
         "latestVersion":"v1.5.0",
         "versionLink":"https://github.com/BuilderDolphin/dolphSol-Macro/releases/latest",
-        "updateNotes":"Unofficial Release v1.5.0.8 by Xon67"
+        "updateNotes":"Unofficial Release v1.5.0 by Xon67"
     },
     "stars": {
         "495104": {
@@ -317,11 +317,12 @@
             "biome": {"name": "Starfall", "factor":10},
             "cornerColor": 3354929
         },
-        "8562687": {
+        "8628479": {
             "name": "Sailor",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e2/SailorCollectionEra7.gif",
             "rarity": 12000000,
-            "biome": {"name": "Rainy", "factor":4}
+            "biome": {"name": "Rainy", "factor":4},
+            "cornerColor": 2236962
         },
         "8759551": {
             "name": "Arcane : Legacy OR Arcane : Dark (1/2)",
