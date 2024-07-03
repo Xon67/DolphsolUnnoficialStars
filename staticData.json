@@ -217,7 +217,7 @@
             "rarity": 850000
         },
         "7313407": {
-            "name": "Arcane or Sailor",
+            "name": "Arcane",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/8/86/Arcane_Gif_25Fps.gif",
             "rarity": 1000000,
             "cornerColor": 3355443
@@ -304,11 +304,11 @@
             "rarity": 6666666,
             "biome": {"name": "Hell", "factor":6}
         },
-        "9660671": {
+        "9265663": {
             "name": "HYPER-VOLT",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/d/d4/HpVl.gif",
             "rarity": 7500000,
-            "cornerColor": 3355443
+            "cornerColor": 3158065
         },
         "16744319": {
             "name": "STARSCOURGE",
@@ -395,6 +395,12 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/d/de/GargantuaCollection.gif",
             "rarity": 430000000,
             "biome": {"name": "Starfall", "factor":10}
+        },
+        "7642879": {
+            "name": "Sailor",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0/06/Sailor_Aura.png",
+            "rarity": 12000000,
+            "biome": {"name": "Rainy", "factor":4}
         },
         "3577524": {
             "name": "Sailor : Flying Dutchman",
