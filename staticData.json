@@ -1,9 +1,9 @@
 [{
-    "announcement":"v1.5.0 By Xon67, Please note that this is an unofficial release, and bugs may occur.",
+    "announcement":"v1.5.1 By Xon67, Please note that this is an unofficial release, and bugs may occur.",
     "updateInfo": {
-        "latestVersion":"v1.5.0",
+        "latestVersion":"v1.5.1",
         "versionLink":"https://github.com/BuilderDolphin/dolphSol-Macro/releases/latest",
-        "updateNotes":"Unofficial Release v1.5.0 by Xon67"
+        "updateNotes":"Unofficial Release v1.5.1 by Xon67"
     },
     "stars": {
         "495104": {
