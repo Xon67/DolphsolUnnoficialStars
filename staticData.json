@@ -304,11 +304,11 @@
             "rarity": 6666666,
             "biome": {"name": "Hell", "factor":6}
         },
-        "9265663": {
+        "9265919": {
             "name": "HYPER-VOLT",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/d/d4/HpVl.gif",
             "rarity": 7500000,
-            "cornerColor": 3158065
+            "cornerColor": 3092272
         },
         "16744319": {
             "name": "STARSCOURGE",
@@ -335,7 +335,7 @@
             "rarity": 35000000,
             "cornerColor": 10000536
         },
-        "6029232": {
+        "6029233": {
             "name": "Matrix",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/b/b0/MatrixCollections.gif",
             "rarity": 50000000,
@@ -373,7 +373,8 @@
         "6186495": {
             "name": "Chromatic : Genesis",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/7/72/Genesis-Collection.gif",
-            "rarity": 99999999
+            "rarity": 99999999,
+            "cornerColor": 2891592
         },
         "3827417": {
             "name": "Overture",
