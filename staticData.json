@@ -317,6 +317,12 @@
             "biome": {"name": "Starfall", "factor":10},
             "cornerColor": 3354929
         },
+        "7642879": {
+            "name": "Sailor",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/0/06/Sailor_Aura.png",
+            "rarity": 12000000,
+            "biome": {"name": "Rainy", "factor":4}
+        },
         "8759551": {
             "name": "Arcane : Legacy OR Arcane : Dark (1/2)",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/3/34/ArcaneLegacyAura.gif",
@@ -341,11 +347,33 @@
             "rarity": 50000000,
             "cornerColor": 3184771
         },
-        "3230967": {
-            "name": "Abyssal Hunter",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/c/ce/Abyssal_Hunter_Collection2.gif",
-            "rarity": 400000000,
+        "3577524": {
+            "name": "Sailor : Flying Dutchman",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e4/Sailor_Flying_Dutchman_Collection_E8.gif",
+            "rarity": 80000000,
             "biome": {"name": "Rainy", "factor":4}
+        },
+        "6186495": {
+            "name": "Chromatic : Genesis",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/7/72/Genesis-Collection.gif",
+            "rarity": 99999999,
+            "cornerColor": 2891592
+        },
+        "10078463": {
+            "name": "STARSCOURGE : RADIANT",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/1/16/Starscourge_Radiant_Gif2.gif",
+            "rarity": 100000000,
+            "biome": {"name": "Starfall", "factor":10}
+        },
+        "3827417": {
+            "name": "Overture",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e8/Overture_Collection.gif",
+            "rarity": 150000000
+        },
+        "12902651": {
+            "name": "Symphony",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/f/f6/Symphony_Collection.gif",
+            "rarity": 175000000
         },
         "10905599": {
             "name": "Impeached",
@@ -358,56 +386,28 @@
             "image": "https://static.wikia.nocookie.net/sol-rng/images/b/bb/Archangel_GIF.gif",
             "rarity": 250000000
         },
-        "10078463": {
-            "name": "STARSCOURGE : RADIANT",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/1/16/Starscourge_Radiant_Gif2.gif",
-            "rarity": 100000000,
-            "biome": {"name": "Starfall", "factor":10}
-        },
         "8328727": {
             "name": "BLOODLUST",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/f/f9/BloodlustInCollection.gif",
             "rarity": 300000000,
             "biome": {"name": "Hell", "factor":6}
         },
-        "6186495": {
-            "name": "Chromatic : Genesis",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/7/72/Genesis-Collection.gif",
-            "rarity": 99999999,
-            "cornerColor": 2891592
-        },
-        "3827417": {
-            "name": "Overture",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e8/Overture_Collection.gif",
-            "rarity": 150000000
-        },
         "5832598": {
             "name": "Overture : History",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/d/d3/Overture_-_History_GIF.gif",
             "rarity": 300000000
         },
-        "12902651": {
-            "name": "Symphony",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/f/f6/Symphony_Collection.gif",
-            "rarity": 175000000
+        "3230967": {
+            "name": "Abyssal Hunter",
+            "image": "https://static.wikia.nocookie.net/sol-rng/images/c/ce/Abyssal_Hunter_Collection2.gif",
+            "rarity": 400000000,
+            "biome": {"name": "Rainy", "factor":4}
         },
         "16689976": {
             "name": "GARGANTUA",
             "image": "https://static.wikia.nocookie.net/sol-rng/images/d/de/GargantuaCollection.gif",
             "rarity": 430000000,
             "biome": {"name": "Starfall", "factor":10}
-        },
-        "7642879": {
-            "name": "Sailor",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/0/06/Sailor_Aura.png",
-            "rarity": 12000000,
-            "biome": {"name": "Rainy", "factor":4}
-        },
-        "3577524": {
-            "name": "Sailor : Flying Dutchman",
-            "image": "https://static.wikia.nocookie.net/sol-rng/images/e/e4/Sailor_Flying_Dutchman_Collection_E8.gif",
-            "rarity": 80000000,
-            "biome": {"name": "Rainy", "factor":4}
         },
         "10207411": {
             "name": "Sovereign",
